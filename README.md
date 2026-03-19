@@ -9,6 +9,9 @@ A Power BI dashboard built to monitor servicer performance and operational KPIs.
 
 ## Dashboards
 
-![Dashboard Screenshot1](images/Dashboard_page1.png)
+<p align="center">
+    <img src="images/Dashboard_page1.png" alt="Dashboard Screenshot1" width="1500"/>
+    <img src="images/Dashboard_page2.png" alt="Dashboard Screenshot2" width="1500"/>
+</p>
 
 
