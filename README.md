@@ -7,4 +7,8 @@ A Power BI dashboard built to monitor servicer performance and operational KPIs.
 - **Techniques Used:** Interactive slicers, Sunburst chart, Decomposition Tree
 - **Confidentiality Note:** Original report contains sensitive company data. Shared visuals have been blurred to preserve confidentiality.
 
+## Dashboards
+
+![Dashboard Screenshot1](images/Dashboard_page1.png)
+
 
