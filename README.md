@@ -1,4 +1,4 @@
-# PowerBI-Servicer-Dashboard
+# PowerBI-Servicer-Dashboard: Service Dashboard
 A Power BI dashboard built to monitor servicer performance and operational KPIs. This repository highlights report design, data modeling, and visualization techniques using confidential company data that has been visually anonymized for portfolio presentation.
 
 ## Report: Service Dashboard
